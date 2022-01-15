@@ -1,4 +1,4 @@
-# Author: Vala Khosravi
+# Author: Vala Khosravi, Shakila Jaberi
 # Refrence: FMGA: Finding Motifs by Genetic Algorithm - Falcon F.M Liu, Jeffrey J.P. Tsai, R.M Chen, S.N. Chen and S.H. Shih
 from numpy import *
 import random
